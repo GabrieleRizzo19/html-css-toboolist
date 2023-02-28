@@ -10,6 +10,7 @@ body{
 header{
     background-color: white;
     height: 50px;
+    margin-bottom: 50px;
 }
 
 header img{
@@ -19,4 +20,14 @@ header img{
 h1{
     display: inline-block;
     font-weight: bolder;
+}
+
+nav, main{
+    background-color: white;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+nav{
+    border-bottom: 1px solid grey;
 }
