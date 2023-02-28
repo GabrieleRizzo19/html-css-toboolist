@@ -13,6 +13,7 @@ header{
     margin-bottom: 50px;
     display: flex;
     align-items: center;
+    border-radius: 10px;
 }
 
 header img{
@@ -46,6 +47,7 @@ nav{
     border-radius: 5px;
     font-size: 10px;
     font-weight: 600;
+    padding: 1px 10px;
 }
 
 #taskbutton{
