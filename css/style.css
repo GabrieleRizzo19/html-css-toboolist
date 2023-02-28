@@ -30,4 +30,28 @@ nav, main{
 
 nav{
     border-bottom: 1px solid grey;
+    margin-bottom: 0;
+}
+
+.checkmark{
+    width: 15px;
+    height: 15px;
+    border: 1px solid green;
+    border-radius: 50%;
+    color: green;
+}
+
+.cross{
+    width: 15px;
+    height: 15px;
+    border: 1px solid red;
+    border-radius: 50%;
+    color: red;
+}
+
+.tagblue{
+    background-color: #4ea9e5;
+    color: white;
+    border-radius: 10%;
+
 }
